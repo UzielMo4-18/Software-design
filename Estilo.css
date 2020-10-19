@@ -1,0 +1,32 @@
+body{
+	background-image: url(https://blog.ucq.edu.mx/hs-fs/hubfs/iStock-832282452.jpg?width=3900&name=iStock-832282452.jpg);
+	font-family: Roboto;
+	padding: 0px 10px 10px 10px;
+}
+h1{
+	color: #00bf00;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+p{
+	color: #ffffff;
+	font-size: 20px;
+}
+
+table{
+	color: #ffffff;
+	border: 3px solid #00bf00;
+}
+
+footer{
+	text-align: center;
+	background-color: #2176ff;
+	color: black;
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: fixed;
+	font-size: 20px;
+}
